@@ -2,6 +2,7 @@
 {
   font-family: "Abril Fatface";
   font-size: 30px;
+  font-weight: bold;
 }
 
 .main
@@ -23,6 +24,7 @@
   text-align: center;
   padding: 10px 20px;
   font-family: "Abril Fatface";
+  font-weight: bold;
 }
 
 .row
